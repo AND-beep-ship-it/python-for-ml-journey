@@ -1,1 +1,1 @@
-# python-for-ml-journey
+Day 1: Python basics completed
